@@ -27,16 +27,18 @@ A continuacion te presentamos 3 ejemplos:
 
 ## Goretty - Pinturas
 
+Datos: [Ejercicio_pronostico.csv](https://github.com/R-Ladies-Morelia/limpieza_datos/blob/51be679427e00a06f5bbb98798ca192a9cdb9139/Ejercicio_pronostico.csv)
+
+Ejercicio: 
 
 ## Maria de los Angeles - Aguacata
 
 
 ## Evelia Coss - Marvel vs DC comics
 
+Datos: [dataframes.tsv](https://github.com/EveliaCoss/Rladies-Morelia/tree/main/G1_AnalisisDeDatos/Parte1_Marvel_vs_DCcomics/data)
+
 Ejecicio :  [Marvel vs DC comics](https://github.com/EveliaCoss/Rladies-Morelia/tree/main/G1_AnalisisDeDatos/Parte1_Marvel_vs_DCcomics)
-
-Datos: [dataframes](https://github.com/EveliaCoss/Rladies-Morelia/tree/main/G1_AnalisisDeDatos/Parte1_Marvel_vs_DCcomics/data)
-
 
 
 

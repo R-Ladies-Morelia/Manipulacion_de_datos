@@ -1,6 +1,6 @@
-# Grupo 1 .- Manipulacion de datos 
+# Grupo 1 .- Manipulación de datos 
 
-La manipulacion de datos incluye: modificaciones, filtrado, limpieza, seleccion y eliminaciones de dataframes.
+La manipulación de datos incluye: modificaciones, filtrado, limpieza, seleccion y eliminaciones de dataframes.
 
 Las funciones que usaremos seran del paquete dplyr:
 

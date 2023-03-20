@@ -35,7 +35,7 @@ Ejercicio: [pronostico.R](https://github.com/R-Ladies-Morelia/limpieza_datos/blo
 
 Datos: [avocado.csv](https://github.com/R-Ladies-Morelia/Aguacate/blob/73b9319b445fdad7471595fa6d67ce84d12d868a/avocado.csv)
 
-Ejercicio: 
+Ejercicio: [Aguacate_ejercicio.R](https://github.com/R-Ladies-Morelia/Aguacate/blob/73b9319b445fdad7471595fa6d67ce84d12d868a/Aguacate_ejercicio.R)
 
 ## Evelia Coss - Marvel vs DC comics
 

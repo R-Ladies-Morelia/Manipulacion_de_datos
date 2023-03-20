@@ -31,7 +31,7 @@ Datos: [Ejercicio_pronostico.csv](https://github.com/R-Ladies-Morelia/limpieza_d
 
 Ejercicio: [pronostico.R](https://github.com/R-Ladies-Morelia/limpieza_datos/blob/15004be493557153ffd799a572a5b3ef925507bd/pronostico.R)
 
-## Maria de los Angeles - Aguacata
+## Maria de los Angeles - Aguacate
 
 Datos: [avocado.csv](https://github.com/R-Ladies-Morelia/Aguacate/blob/73b9319b445fdad7471595fa6d67ce84d12d868a/avocado.csv)
 

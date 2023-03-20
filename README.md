@@ -33,6 +33,9 @@ Ejercicio: [pronostico.R](https://github.com/R-Ladies-Morelia/limpieza_datos/blo
 
 ## Maria de los Angeles - Aguacata
 
+Datos: [avocado.csv](https://github.com/R-Ladies-Morelia/Aguacate/blob/73b9319b445fdad7471595fa6d67ce84d12d868a/avocado.csv)
+
+Ejercicio: 
 
 ## Evelia Coss - Marvel vs DC comics
 

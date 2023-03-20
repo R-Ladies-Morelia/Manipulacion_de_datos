@@ -29,7 +29,7 @@ A continuacion te presentamos 3 ejemplos:
 
 Datos: [Ejercicio_pronostico.csv](https://github.com/R-Ladies-Morelia/limpieza_datos/blob/51be679427e00a06f5bbb98798ca192a9cdb9139/Ejercicio_pronostico.csv)
 
-Ejercicio: 
+Ejercicio: [pronostico.R](https://github.com/R-Ladies-Morelia/limpieza_datos/blob/15004be493557153ffd799a572a5b3ef925507bd/pronostico.R)
 
 ## Maria de los Angeles - Aguacata
 

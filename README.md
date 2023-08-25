@@ -1,5 +1,7 @@
 # Grupo 1 .- Manipulación de datos 
 
+21 de Febrero 2023
+
 La manipulación de datos incluye: modificaciones, filtrado, limpieza, seleccion y eliminaciones de dataframes.
 
 Las funciones que usaremos seran del paquete dplyr:
